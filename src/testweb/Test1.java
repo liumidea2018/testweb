@@ -6,5 +6,6 @@ public class Test1 {
 	String password;
 	String a1;
 	String a;
+	String master;
 	
 }
