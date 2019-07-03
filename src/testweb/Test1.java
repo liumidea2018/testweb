@@ -7,5 +7,6 @@ public class Test1 {
 	String a1;
 	String a;
 	String master;
+	String hotfix;
 	
 }
